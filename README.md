@@ -11,7 +11,6 @@
  - [Slim](http://slim-lang.com/) in layout
 * Middleman plugins
  - [middleman-blog](http://github.com/middleman/middleman-blog/)
- - [middleman-livereload](http://github.com/middleman/middleman-livereload)
  - [middleman-target](http://github.com/xunker/middleman-target) 
  - [middleman-deploy](http://github.com/tvaughan/middleman-deploy) config snippet to ease FTP/SFTP deployment
 * [Bower](http://github.com/twitter/bower) package management
